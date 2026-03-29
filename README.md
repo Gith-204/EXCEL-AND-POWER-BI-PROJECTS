@@ -1,7 +1,7 @@
 #DATA ANALYST PORTFOLIO | BATCH OF 2026
 TECHNICAL SKILLS : Power BI, Excel, SQL and Python
 
-I am a Computer Science Engineering student interested in data analyst. This repository showcases my ability to clean complex datasets and create interactive dashboards that drive business insights
+I am a Computer Science Engineering student interested in data analyst. This repository showcases my ability to clean complex datasets and create interactive dashboards that drive business insights.
 
 PROJECT 1 : SOCIAL MEDIA ADDICTION AND USAGE PATTERNS DASHBOARD
 TOOL : Microsoft Excel
